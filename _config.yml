@@ -1,2 +1,7 @@
-title: "Mi sitio de plantillas"
+title: "Plantillas Marketing & Productividad"
+description: "Plantillas digitales para emprendedores y creadores de contenido."
+baseurl: ""      # deja vacío para sitio de usuario; si es proyecto usa "/TU_REPO"
+url: "https://TU_USUARIO.github.io"  # (o tu dominio personalizado)
 theme: minima
+plugins:
+  - jekyll-feed
